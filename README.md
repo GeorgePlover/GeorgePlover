@@ -1,4 +1,34 @@
-## Hi there 👋
+## Hi, 👋 I'm George Plover 🐸
+- 🎓 I graduated from Fudan University as an undergraduate. (Jun.2023)
+- 📚 I am studying for a master's degree in Computer Science at Fudan University. (to graduate in Jun.2026)
+- 💻 I'm an intern at Huawei Cloud. (Nov.2024 - Aug.2025)
+- 🌱 I’m currently learning training&inference optimization of LLMs.
+
+🔧 Tech Stack: C++ | Python | 
+
+### Experience of ICPC/CCPC
+- 🥇 Gold Medal of Asia Shanghai/Nanjing/Shenyang/Hefei Regional ICPC.
+- 🥇 Gold Medal of Guangzhou/Weihai Site CCPC.
+- 🥇 Gold Medal of 8-th CCPC Final.
+
+#### Codeforces Stats:
+- **Username**: [George_Plover](https://codeforces.com/profile/George_Plover)
+- **Rating**: 2228 (Master)
+- **Max Rating**: 2266
+- **Solved Problems**: 567
+
+#### Problems Contribution:
+Contributed problems in past years. 
+Representative works:
+- String / Matching | [Karshilov's Matching Problem II](https://codeforces.com/gym/104813/problem/C) |
+- Greedy Algorithm | [Revenge on My Boss](https://codeforces.com/gym/104813/problem/E) |
+- Probabilistic Expectation/ DP | [Damaged Bicycle](https://codeforces.com/gym/103447/problem/G) |
+...
+  
+### 📬 Connect with me:
+
+[GitHub](https://github.com/GeorgePlover) |
+[Email](mailto:shnie23@m.fudan.edu.cn)
 
 <!--
 **GeorgePlover/GeorgePlover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
