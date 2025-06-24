@@ -1,4 +1,4 @@
-## Hi, 👋 I'm George Plover 🐸
+## Hi, 👋 I'm George Plover 🐸 (AKA. Shaoheng Nie)
 - 🎓 I graduated from Fudan University as an undergraduate. (Jun.2023)
 - 📚 I am studying for a master's degree in Computer Science at Fudan University. (to graduate in Jun.2026)
 - 💻 I'm an intern at Huawei Cloud. (Nov.2024 - Aug.2025)
