@@ -3,7 +3,10 @@
 - 📚 I am studying for a master's degree in Computer Science at Fudan University. (to graduate in Jun.2026)
 - 💻 I'm an intern at Huawei Cloud. (Nov.2024 - Aug.2025)
 - 🌱 I’m currently learning training&inference optimization of LLMs.
-  -  CUDA Learning: [CUDA_Freshman](https://github.com/GeorgePlover/CUDA_Freshman), Progress: `██████████░░░░░░░░░░░░░░░` 40%
+  -  CUDA Learning: [CUDA_Freshman](https://github.com/GeorgePlover/CUDA_Freshman), Progress: `███████████████░░░░░░░░░░` 60%
+  -  CS336 Language Model From Scratch：
+    -  Course Progress: 4/17
+    -  [HW-01](https://github.com/GeorgePlover/CS336-assignment1-basics): Progress: `████░░░░░░░░░░░░░░░░░░░░░` 16%
 
 🔧 Tech Stack: C++ | Python | 
 
