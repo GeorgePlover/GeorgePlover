@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning training&inference optimization of LLMs.
   -  CUDA Learning: [CUDA_Freshman](https://github.com/GeorgePlover/CUDA_Freshman), Progress: `███████████████░░░░░░░░░░` 60%
   -  CS336 Language Model From Scratch：
-    -  Course Progress: 4/17
-    -  [HW-01](https://github.com/GeorgePlover/CS336-assignment1-basics): Progress: `████░░░░░░░░░░░░░░░░░░░░░` 16%
+      -  Course Progress: 4/17
+      -  [HW-01](https://github.com/GeorgePlover/CS336-assignment1-basics): Progress: `████░░░░░░░░░░░░░░░░░░░░░` 16%
 
 🔧 Tech Stack: C++ | Python | 
 
