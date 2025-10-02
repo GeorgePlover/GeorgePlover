@@ -27,6 +27,8 @@ Representative works:
 - String / Matching | [Karshilov's Matching Problem II](https://codeforces.com/gym/104813/problem/C) |
 - Greedy Algorithm | [Revenge on My Boss](https://codeforces.com/gym/104813/problem/E) |
 - Probabilistic Expectation/ DP | [Damaged Bicycle](https://codeforces.com/gym/103447/problem/G) |
+- An Interesting MST-like Problem | [Cut Trees And Build Bridges](https://qoj.ac/contest/2534/problem/14549) |
+
 ...
   
 ### 📬 Connect with me:
