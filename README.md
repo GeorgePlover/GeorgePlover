@@ -6,7 +6,7 @@
   -  CUDA Learning: [CUDA_Freshman](https://github.com/GeorgePlover/CUDA_Freshman), Progress: `███████████████░░░░░░░░░░` 60%
   -  CS336 Language Model From Scratch：
       -  Course Progress: 6/17
-      -  [HW-01](https://github.com/GeorgePlover/CS336-assignment1-basics): Progress: `██████████░░░░░░░░░░░░░░░` 40%
+      -  [HW-01](https://github.com/GeorgePlover/CS336-assignment1-basics): Progress: `██████████████░░░░░░░░░░░` 56%
 
 🔧 Tech Stack: C++ | Python | 
 
